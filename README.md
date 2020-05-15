@@ -1,11 +1,11 @@
-shadowsocks-heroku
+sk-heroku
 ==================
 
-shadowsocks-heroku is a lightweight tunnel proxy which can help you get through firewalls. It is a port of [shadowsocks](https://github.com/clowwindy/shadowsocks), but through a different protocol.
+sk-heroku is a lightweight tunnel proxy which can help you get through firewalls. It is a port of [sk](https://github.com/clowwindy/sk), but through a different protocol.
 
-shadowsocks-heroku uses WebSocket instead of raw sockets, so it can be deployed on [Heroku](https://www.heroku.com/).
+sk-heroku uses WebSocket instead of raw sockets, so it can be deployed on [Heroku](https://www.heroku.com/).
 
-Notice that the protocol is INCOMPATIBLE with the origin shadowsocks.
+Notice that the protocol is INCOMPATIBLE with the origin sk.
 
 Heroku
 ------
